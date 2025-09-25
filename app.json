@@ -1,0 +1,14 @@
+﻿{
+    "expo":  {
+                 "name":  "Projeto01",
+                 "slug":  "projeto01",
+                 "version":  "1.0.0",
+                 "assetBundlePatterns":  [
+                                             "**/*"
+                                         ],
+                 "jsEngine":  "hermes",
+                 "android":  {
+                                 "package":  "com.yourcompany.projeto01"
+                             }
+             }
+}
